@@ -20,4 +20,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\newt.client\newt.client.csproj" />
+    <ProjectReference Include="..\newt.shared\newt.shared.csproj" />
+  </ItemGroup>
+
 </Project>
