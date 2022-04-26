@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newt.api", "newt.api\newt.api.csproj", "{E270011A-A48C-48BA-B31E-6D3901C0285B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newt.client", "newt.client\newt.client.csproj", "{D6B6C65C-29B2-4F9C-B63B-3195A494DA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newt.shared", "newt.shared\newt.shared.csproj", "{239C5153-AFB9-4561-B594-2FCC60A0B8B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E270011A-A48C-48BA-B31E-6D3901C0285B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E270011A-A48C-48BA-B31E-6D3901C0285B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E270011A-A48C-48BA-B31E-6D3901C0285B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E270011A-A48C-48BA-B31E-6D3901C0285B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B6C65C-29B2-4F9C-B63B-3195A494DA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B6C65C-29B2-4F9C-B63B-3195A494DA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B6C65C-29B2-4F9C-B63B-3195A494DA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B6C65C-29B2-4F9C-B63B-3195A494DA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239C5153-AFB9-4561-B594-2FCC60A0B8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239C5153-AFB9-4561-B594-2FCC60A0B8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239C5153-AFB9-4561-B594-2FCC60A0B8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239C5153-AFB9-4561-B594-2FCC60A0B8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
